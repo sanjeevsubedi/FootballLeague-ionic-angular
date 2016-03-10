@@ -1,3 +1,4 @@
+//This handles retrieving data and is used by controllers.
 angular.module('fl.services', ['fl.loader','fl.constants','fl.utils'])
 
 /*.factory('UserService', function($http, LoadingService,URL) {

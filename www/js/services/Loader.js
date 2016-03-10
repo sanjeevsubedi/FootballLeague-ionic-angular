@@ -1,3 +1,4 @@
+//module created to customize the generic loader style
 angular.module('fl.loader', [])
 
 .factory('LoadingService', function($http, $ionicLoading) {

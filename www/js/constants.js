@@ -1,3 +1,4 @@
+//constant value declarations
 var baseUrl = 'http://api.football-data.org/v1/';
 angular.module('fl.constants',[])  
 
